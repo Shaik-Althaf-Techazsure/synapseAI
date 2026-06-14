@@ -120,3 +120,6 @@ Microsoft_AI/
 ---
 
 *Built with ❤️ for Microsoft AI Hackathon 2025*
+=======
+# synapseAI
+
